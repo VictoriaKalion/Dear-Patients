@@ -61,8 +61,8 @@ dear_patients/
 
 Эти два чувака почти не спали, делая эту программу:
 
-**[Горожанкина П.](https://github.com/)** - *Главный программист*: Делала чтобы всё работало и не падало. "You know, I learned something today..."
-**[Калион В.](https://github.com/)** - *Дизайнер*: Сделал чтобы не было противно смотреть. "I'm not just sure, I'm dental sure!"
+* **[Горожанкина П.](https://github.com/PolyaGribok)** - *Главный программист*: Делала чтобы всё работало и не падало. "You know, I learned something today..."
+* **[Калион В.](https://github.com/VictoriaKalion)** - *Дизайнер*: Сделал чтобы не было противно смотреть. "I'm not just sure, I'm dental sure!"
 
 ## Лицензия
 
