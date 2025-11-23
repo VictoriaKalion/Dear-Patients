@@ -9,7 +9,7 @@
 
 1.  **Скачайте:**
     ```bash
-    git clone https://github.com/your-username/dear_patients.git
+    git clone https://github.com/VictoriaKalion/Dear-Patients
     cd dear_patients
     ```
 
