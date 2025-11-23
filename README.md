@@ -35,6 +35,7 @@ source venv/bin/activate
 ```
 
 ## Что тут у вас в файлах?
+```
 dear_patients/
 ├── images/
 │ ├── clinic_logo.png
@@ -49,11 +50,12 @@ dear_patients/
 ├── patients.json
 ├── LICENSE
 └── README.md
+```
 
 ## Скриншоты (не обманываем!)
-![](promo1)
-![](promo2)
-![](promo3)
+![](promo1.png)
+![](promo2.png)
+![](promo3.png)
 
 ## Кто это сделал? (не Брэндон!)
 
